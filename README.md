@@ -7,9 +7,10 @@
 2- Go under Subscrioptions on your acccount and add a Free trial subscription as shown below.(A cc will be required)
     <img width="1242" alt="Screen Shot 2022-08-18 at 10 06 02 PM" src="https://user-images.githubusercontent.com/111548571/185527023-582f14f9-79d4-4d30-8b74-df6af72df37c.png">
 
-3- Install Terraform following the steps described in the link below:
+3- Install Terraform following the steps described in the following link:
  https://learn.hashicorp.com/tutorials/terraform/install-cli
- The above steps is for Mac users. You might need to change the OS and install appropriate version. 
+ 
+ Those steps are for Mac users. You might need to change the OS and install appropriate version. 
  
 4- Go to your terminal once Terraform is installed and issue the following commands :
 
