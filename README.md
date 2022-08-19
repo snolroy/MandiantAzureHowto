@@ -54,7 +54,7 @@ Once the command above is issued, the resources and users in the terraform doc w
 
 8- Next perform the Kill-Chain #1:
 
-##Objective: Gain access to the Customers PII data.
+## Objective: Gain access to the Customers PII data.
 
 Solutions: The full attack path solutions can be found in kc1/kc1_solution.txt
 
