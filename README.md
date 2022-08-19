@@ -4,7 +4,7 @@
 
 1- Go to https://signup.microsoft.com/get-started/signup?products=101bde18-5ffb-4d79-a47b-f5b2c62525b3&culture=en-us&country=US&ali=1 and sign up for a Microsoft E5 trial account
 
-2- Go under Subscrioptions on your acccount and add a Free trial subscription as shown below.(A cc will be required)
+2- Go under Subscriptions on your acccount and add a Free trial subscription as shown below.(A cc will be required)
     <img width="1242" alt="Screen Shot 2022-08-18 at 10 06 02 PM" src="https://user-images.githubusercontent.com/111548571/185527023-582f14f9-79d4-4d30-8b74-df6af72df37c.png">
 
 3- Install Azure CLI using the steps described in the following link:
