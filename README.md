@@ -10,7 +10,7 @@
 3- Install Terraform following the steps described in the following link:
  https://learn.hashicorp.com/tutorials/terraform/install-cli
  
- Those steps are for Mac users. You might need to change the OS and install appropriate version. 
+ The steps described in the previous link is for Mac users. You might need to change the OS and install appropriate version. 
  
 4- Go to your terminal once Terraform is installed and issue the following commands :
 
